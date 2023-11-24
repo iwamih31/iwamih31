@@ -24,8 +24,8 @@
                     white-space: nowrap;
                     overflow: hidden;
                     -webkit-animation: typing 2s steps(30, end), blink-caret .5s step-end infinite alternate;
-                    color: #0093ff;
-                    text-shadow: #0093ff 0px 0 5px;
+                    color: #008fff;
+                    text-shadow: #008fff 0px 0 5px;
                 }
             </style>
             <div class="container">

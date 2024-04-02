@@ -8,9 +8,9 @@
 
 <ul class="vcard-details">
   <li itemprop="url" data-test-selector="profile-website-url" class="vcard-detail pt-1 ">
-    <a rel="nofollow me" class="Link--primary" href="https://iwamih31.github.io/portfolio/">ポートフォリオ</a>
+    <a rel="me" class="Link--primary" href="https://iwamih31.github.io/portfolio/">ポートフォリオ</a>
   </li>
   <li itemprop="social" class="vcard-detail pt-1 ">
-    <a rel="nofollow me" class="Link--primary" href="https://iwamih31.wordpress.com/">ブログ</a>
+    <a rel="me" class="Link--primary" href="https://iwamih31.wordpress.com/">ブログ</a>
   </li>                  
 </ul>
